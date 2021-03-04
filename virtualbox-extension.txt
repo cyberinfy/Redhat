@@ -1,0 +1,2 @@
+su
+yum install kernel kernel-devel kernel-headers gcc make perl elfutils-libelf-devel bzip2 tar -y
